@@ -63,6 +63,10 @@ footer{
 	line-height:40px;
 	font-size:0.7em;
 }
+#t0{
+	margin:0 auto;
+	width:40%;
+}
 #t1{
 	margin:0 auto;
 	width:50%;
@@ -74,7 +78,7 @@ footer{
 #sel{
 	height:25px;
 }
-#th{
+#th11{
 	background:lightgray;
 	width:20%;
 }
@@ -97,6 +101,11 @@ footer{
 	height:20px;
 	width:68%;
 }
+}
+#in1{
+	height:20px;
+	width:50%;
+}
 #div{
 	text-align:center;
 	padding-top:10px;
@@ -111,4 +120,7 @@ footer{
 }
 #p{
 	padding-left:200px;
+}
+#p1{
+	padding-left:300px;
 }
